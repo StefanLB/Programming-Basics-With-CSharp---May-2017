@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excercise_1_Square-Area", "Excercise_1_Square-Area\Excercise_1_Square-Area.csproj", "{7503DAA6-47C7-4567-AE6D-DFA003160096}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excercise_2_InchesToCm", "Excercise_2_InchesToCm\Excercise_2_InchesToCm.csproj", "{9B5B3CD6-B9B1-40A3-A862-9770F50AFCBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7503DAA6-47C7-4567-AE6D-DFA003160096}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7503DAA6-47C7-4567-AE6D-DFA003160096}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7503DAA6-47C7-4567-AE6D-DFA003160096}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7503DAA6-47C7-4567-AE6D-DFA003160096}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B5B3CD6-B9B1-40A3-A862-9770F50AFCBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B5B3CD6-B9B1-40A3-A862-9770F50AFCBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B5B3CD6-B9B1-40A3-A862-9770F50AFCBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B5B3CD6-B9B1-40A3-A862-9770F50AFCBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
